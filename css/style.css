@@ -474,6 +474,9 @@ h1.company-name {
   }
 }
 @media (min-width: 768px) {
+  .header__img {
+    background-image: url("../img/bitcoin-max.jpg");
+  }
   .cards__box {
     padding: 10em 2em;
   }

@@ -1,4 +1,10 @@
 @media (min-width: 768px) {
+
+	.header {
+		&__img {
+			background-image: url("../img/bitcoin-max.jpg");
+		}
+	}
 	.cards {
 		&__box {
 			padding: 10em 2em;
